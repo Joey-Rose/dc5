@@ -1,0 +1,17 @@
+computer science, 10
+mindfulness in the workplace, 3
+women in theater, 4
+basketball, 3
+poetry, 10
+literature, 4
+physics, 10
+american history, 7
+rap music, 4
+american politics, 10
+
+how many guessed correctly: 67/100
+how many guessed incorrectly: 33/100
+
+
+
+lack of variety in TED talk? lots of computer science talks and little about basketball
